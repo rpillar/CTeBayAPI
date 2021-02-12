@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "FirstnameLastname 9/27/2016 08:55",
+	"super" : "CTeBayChannel",
+	"category" : "CT-eBayAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"credentials",
+		"response"
+	],
+	"name" : "CTeBay",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+code-critics
+ruleRBImplementedNotSentRuleV1FalsePositive
+	^ #(#(#(#RGMethodDefinition #(#CTeBayManage #getEBayXDetails #false)) #'2021-01-09T13:50:12.838203+00:00') #(#(#RGMethodDefinition #(#CTeBayManage #getEBayXItem: #false)) #'2021-01-09T13:50:31.075139+00:00') #(#(#RGMethodDefinition #(#CTeBayManage #getEBayXSellerList #false)) #'2021-01-09T13:51:07.92289+00:00') #(#(#RGMethodDefinition #(#CTeBayManage #getEBayXTransactionsAll #false)) #'2021-01-09T13:51:25.078433+00:00') #(#(#RGMethodDefinition #(#CTeBayManage #getEBayXTransactionsForDay #false)) #'2021-01-09T13:51:31.177067+00:00') #(#(#RGMethodDefinition #(#CTeBayManage #getEBayGetAccessToken: #false)) #'2021-02-07T19:42:22.471399+00:00') )
