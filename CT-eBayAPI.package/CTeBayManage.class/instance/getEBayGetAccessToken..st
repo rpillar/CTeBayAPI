@@ -13,4 +13,4 @@ getEBayGetAccessToken: aScope
 		post;
 		response.
 
-	^ ( NeoJSONReader fromString: accessTokenResponse contents ) t: #access_token.
+	^ ( NeoJSONReader fromString: accessTokenResponse contents ) at: #access_token.
