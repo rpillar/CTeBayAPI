@@ -1,6 +1,6 @@
 {
 	"instance" : {
-		"getEBayXDetails" : "RichardPillar 1/9/2021 14:21",
+		"getEBayXTransactionsForDaysStarting:ending:" : "RichardPillar 5/14/2021 21:49",
 		"getEBayXTransactionsAll" : "RichardPillar 1/9/2021 14:23",
 		"eBayXformatResponse:" : "RichardPillar 1/9/2021 14:24",
 		"myEbay" : "FirstnameLastname 7/20/2016 16:35",
@@ -13,8 +13,8 @@
 		"myEbay:" : "FirstnameLastname 7/20/2016 16:35",
 		"getEBayXSellerList" : "RichardPillar 1/9/2021 14:23",
 		"getEBayXOfficialTime" : "RichardPillar 1/9/2021 19:10",
-		"getEBayTransactionsForDaysStarting:ending:" : "RichardPillar 1/9/2021 19:10",
-		"getEBayXCategories" : "RichardPillar 2/7/2021 22:35"
+		"getEBayXCategories" : "RichardPillar 2/7/2021 22:35",
+		"getEBayXDetails" : "RichardPillar 1/9/2021 14:21"
 	},
 	"class" : { }
 }

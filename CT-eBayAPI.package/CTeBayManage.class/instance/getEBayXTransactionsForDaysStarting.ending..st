@@ -1,5 +1,5 @@
 getdata
-getEBayTransactionsForDaysStarting: startDay ending: endDay
+getEBayXTransactionsForDaysStarting: startDay ending: endDay
 
 	| response writer |
 
