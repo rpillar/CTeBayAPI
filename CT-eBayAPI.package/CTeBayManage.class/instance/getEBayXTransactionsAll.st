@@ -16,7 +16,7 @@ getEBayXTransactionsAll
 		]. 
 
 	"ebay function ..."
-	request headerAt: 'X-EBAY-API-CALL-NAME' add: 'GetSellerTransactions'.
+	request headerAt: 'X-EBAY-API-CALL-NAME' add: 'GetOrders'.
 	response := self request
 		url: self myEbay url; 
 		entity: (
